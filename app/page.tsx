@@ -1,0 +1,1 @@
+export default function Page(){return(<div><h1>MN Elite Kern Hockey Hub</h1><p>ORGANIC. UNIQUE. MODERN.</p></div>)}
